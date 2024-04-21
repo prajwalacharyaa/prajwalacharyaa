@@ -30,6 +30,6 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" alt="firebase" width="45" height="45" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="sql" width="45" height="45"/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=prajwalacharyaa&show_icons=true&theme=radical)
+![Prajwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=prajwalacharyaa&show_icons=true&theme=radical)
           
 </p>
