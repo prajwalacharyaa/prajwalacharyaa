@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on SAS application.<br>🌱 I’m currently learning React.<br>💬 Ask me about<br>📫 How to reach me: meprajwalacharya@gmail.com<br>⚡ Fun fact: I like literature.
+🔭 I’m currently working on SAS application.<br>🌱 Currently learning React.<br>💬 Ask me about meditation.<br>📫 How to reach me: meprajwalacharya@gmail.com<br>⚡ Fun fact: I like literature.
 
 
 ## 🌐 Socials:
